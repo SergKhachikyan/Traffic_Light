@@ -1,3 +1,7 @@
+### 🐍 Snake eating my contributions graph
+
+![snake gif](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/dist/github-contribution-grid-snake.svg)
+
 # 🚦 Traffic Light Detection
 
 **Traffic Light Detection** is a computer vision project that detects whether a traffic light is present in an image using deep learning techniques. The model is trained on labeled image datasets and can be used in autonomous driving systems, surveillance, or smart city infrastructure.
