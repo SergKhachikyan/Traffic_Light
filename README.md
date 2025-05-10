@@ -57,6 +57,9 @@ In `traffic_light_detector.ipynb`, the following pipeline is used:
   - Adding **bounding boxes** (object detection)
   - Deploying the model to mobile/web/embedded platforms
 
+![traffic_light](https://github.com/user-attachments/assets/1ca6937c-0053-4a6e-bc1b-178d2a9484d4)
+
+
 ### 6. 📌 Notes
 - Dataset may include public sources like LISA Traffic Light Dataset, BDD100K, or custom-labeled data.
 - This is a learning project and may be improved further with data augmentation, transfer learning, and better datasets.
